@@ -1,0 +1,60 @@
+body {
+  overflow-x: hidden;
+}
+#inner {
+  width: 100vw;
+  height: 100vh;
+}
+.job-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  visibility: visible;
+  transition: all 2s ease-in-out;
+  z-index: -10;
+  width: 100vw;
+  min-height: 100vh;
+}
+#imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  height: 100%;
+  transform-style: preserve-3d;
+}
+#imagem #front-img {
+  width: 250px;
+  height: 250px;
+  transform-style: preserve-3d;
+}
+#text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+  transform-style: preserve-3d;
+  text-align: left;
+  padding: 2rem 4rem;
+  margin-right: 2rem;
+}
+#text h2 {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  line-height: 1.2;
+}
+#text h3 {
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom: 0.7rem;
+  color: white;
+}
+#text p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 19px;
+  color: white;
+  line-height: 1.6;
+}
