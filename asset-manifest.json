@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.c081ca5d.chunk.css",
+    "main.js": "/cv/static/js/main.ca213b69.chunk.js",
+    "main.js.map": "/cv/static/js/main.ca213b69.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.050c6428.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.050c6428.js.map",
+    "static/css/2.404ebb63.chunk.css": "/cv/static/css/2.404ebb63.chunk.css",
+    "static/js/2.a37fb0da.chunk.js": "/cv/static/js/2.a37fb0da.chunk.js",
+    "static/js/2.a37fb0da.chunk.js.map": "/cv/static/js/2.a37fb0da.chunk.js.map",
+    "static/css/3.d70736d0.chunk.css": "/cv/static/css/3.d70736d0.chunk.css",
+    "static/js/3.7a0dab8a.chunk.js": "/cv/static/js/3.7a0dab8a.chunk.js",
+    "static/js/3.7a0dab8a.chunk.js.map": "/cv/static/js/3.7a0dab8a.chunk.js.map",
+    "static/js/4.c4a1f2e2.chunk.js": "/cv/static/js/4.c4a1f2e2.chunk.js",
+    "static/js/4.c4a1f2e2.chunk.js.map": "/cv/static/js/4.c4a1f2e2.chunk.js.map",
+    "index.html": "/cv/index.html",
+    "precache-manifest.81ec2ddeb8f992aa101e5b08fd1a267f.js": "/cv/precache-manifest.81ec2ddeb8f992aa101e5b08fd1a267f.js",
+    "service-worker.js": "/cv/service-worker.js",
+    "static/css/2.404ebb63.chunk.css.map": "/cv/static/css/2.404ebb63.chunk.css.map",
+    "static/css/3.d70736d0.chunk.css.map": "/cv/static/css/3.d70736d0.chunk.css.map",
+    "static/css/main.c081ca5d.chunk.css.map": "/cv/static/css/main.c081ca5d.chunk.css.map",
+    "static/js/4.c4a1f2e2.chunk.js.LICENSE.txt": "/cv/static/js/4.c4a1f2e2.chunk.js.LICENSE.txt",
+    "static/media/MyLibraryCover.svg": "/cv/static/media/MyLibraryCover.d83ccc1a.svg",
+    "static/media/afslogo.svg": "/cv/static/media/afslogo.0f3b12d8.svg",
+    "static/media/coolhowLogo.svg": "/cv/static/media/coolhowLogo.3fc3f90a.svg",
+    "static/media/etch-a-sketch-cover.svg": "/cv/static/media/etch-a-sketch-cover.857e75fe.svg",
+    "static/media/github-logo.38e0a9fc.svg": "/cv/static/media/github-logo.38e0a9fc.svg",
+    "static/media/linkedin-logo.29a02864.svg": "/cv/static/media/linkedin-logo.29a02864.svg",
+    "static/media/logo-once.gif": "/cv/static/media/logo-once.52732962.gif",
+    "static/media/mplogo.svg": "/cv/static/media/mplogo.3680ea61.svg",
+    "static/media/todo-list.svg": "/cv/static/media/todo-list.afd19fe5.svg",
+    "static/media/weatherAPI-cover.svg": "/cv/static/media/weatherAPI-cover.4864b1e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.050c6428.js",
+    "static/js/4.c4a1f2e2.chunk.js",
+    "static/css/main.c081ca5d.chunk.css",
+    "static/js/main.ca213b69.chunk.js"
+  ]
+}
