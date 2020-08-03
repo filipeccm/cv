@@ -1,17 +1,19 @@
 import React from 'react';
+
 import './Home.css';
-import { ReactComponent as Linkedin } from './linkedin-logo.svg';
-import { ReactComponent as Github } from './github-logo.svg';
+
+import { ReactComponent as Linkedin } from '../../icons/linkedin-logo.svg';
+import { ReactComponent as Github } from '../../icons/github-logo.svg';
 
 const Home = () => {
   return (
-    <section className="home" id="home">
+    <section id="home">
       <div className="intro">
         <h2>
           Hello, I am <br /> Filipe Mendonça
         </h2>
         <p>
-          Front End Developer and <br /> Online Marketer
+          Front-end Developer and <br /> Online Marketer
         </p>
       </div>
       <div className="icons">

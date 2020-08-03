@@ -1,7 +1,17 @@
 import React, { useRef } from 'react';
 import './ProjectCard.css';
 
-const ProjectCard = (props) => {
+const ProjectCard = ({
+  project: {
+    color,
+    title,
+    description,
+    link,
+    codeLink,
+    backgroundColor,
+    backgroundImg,
+  },
+}) => {
   const innerRef = useRef();
 
   const handleMouseOver = () => {
@@ -22,22 +32,22 @@ const ProjectCard = (props) => {
   };
   return (
     <div
-      className="card2"
+      className="card"
       onMouseOver={handleMouseOver}
       onMouseLeave={handleMouseLeave}
     >
       <div id="card-body">
         <div className="inner" ref={innerRef}>
-          <h2 className="project-title" style={{ color: props.color }}>
-            {props.title}
+          <h2 className="project-title" style={{ color: color }}>
+            {title}
           </h2>
-          <p>{props.description}</p>
+          <p>{description}</p>
           <a
             target="_blank"
             rel="noopener noreferrer"
             id="live-code"
-            href={props.link}
-            style={{ color: props.backgroundColor }}
+            href={link}
+            style={{ color: backgroundColor }}
           >
             See it live
           </a>
@@ -45,19 +55,19 @@ const ProjectCard = (props) => {
             target="_blank"
             rel="noopener noreferrer"
             id="live-code"
-            href={props.codeLink}
-            style={{ color: props.backgroundColor }}
+            href={codeLink}
+            style={{ color: backgroundColor }}
           >
             See the code
           </a>
         </div>
         <div
-          className="cover2"
-          style={{ backgroundColor: props.backgroundColor }}
+          className="cover"
+          style={{ backgroundColor: backgroundColor }}
         ></div>
         <div
           className="image"
-          style={{ backgroundImage: `url(${props.backgroundImg})` }}
+          style={{ backgroundImage: `url(${backgroundImg})` }}
         ></div>
       </div>
     </div>

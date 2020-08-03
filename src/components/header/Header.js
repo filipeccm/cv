@@ -9,9 +9,8 @@ const Header = () => {
 
   useEffect(() => {
     const fixTheHeader = () => {
-      if (window.scrollY > 60) {
+      if (window.pageYOffset > 60) {
         setFixed(true);
-        console.log('hi');
       } else {
         setFixed(false);
       }

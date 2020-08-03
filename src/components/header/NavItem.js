@@ -1,10 +1,10 @@
 import React from 'react';
 
-const NavItem = (props) => {
+const NavItem = ({ link, item }) => {
   return (
     <li>
-      <a href={props.link}>
-        <div>{props.item}</div>
+      <a href={link}>
+        <div>{item}</div>
         <div className="underline"></div>
       </a>
     </li>

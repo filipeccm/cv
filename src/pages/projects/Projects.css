@@ -1,4 +1,4 @@
-.projects {
+#projects {
   /* background-color: #2c47a8; */
   background-color: #0b132b;
   width: 100vw;
@@ -8,7 +8,11 @@
   justify-content: center;
   align-items: center;
   height: 25vh;
-  font-size: 30px;
+  padding: 1rem;
+}
+.proj-header h2 {
+  font-size: 42px;
+  text-align: center;
   color: white;
 }
 .projects-grid {
@@ -18,4 +22,9 @@
   grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
   grid-gap: 10px;
   padding: 0px 10px 100px;
+}
+@media screen and (max-width: 420px) {
+  .proj-header h2 {
+    font-size: 30px;
+  }
 }

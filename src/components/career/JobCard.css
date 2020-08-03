@@ -11,12 +11,11 @@ body {
   align-items: center;
   opacity: 1;
   visibility: visible;
-  transition: all 2s ease-in-out;
   z-index: -10;
   width: 100vw;
   min-height: 100vh;
 }
-#imagem {
+#image {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,9 +23,11 @@ body {
   height: 100%;
   transform-style: preserve-3d;
 }
-#imagem #front-img {
-  width: 250px;
-  height: 250px;
+#image #front-img {
+  width: 200px;
+  height: 200px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   transform-style: preserve-3d;
 }
 #text {
@@ -45,6 +46,7 @@ body {
   font-size: 60px;
   font-family: 'Oswald', sans-serif;
   line-height: 1.2;
+  margin-bottom: 0.5rem;
 }
 #text h3 {
   font-size: 36px;
@@ -57,4 +59,22 @@ body {
   font-size: 19px;
   color: white;
   line-height: 1.6;
+}
+@media screen and (max-width: 768px) {
+  .job-card {
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 2rem;
+  }
+  #text {
+    padding: 0;
+    margin: 0;
+    width: 90%;
+  }
+  #text h2 {
+    font-size: 45px;
+  }
+  #text h3 {
+    font-size: 30px;
+  }
 }
