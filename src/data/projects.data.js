@@ -3,18 +3,19 @@ import MyLibraryCover from '../images/MyLibraryCover.svg';
 import EtchASketchCover from '../images/etch-a-sketch-cover.svg';
 import TodoList from '../images/todo-list.svg';
 import Portfolio from '../images/portfolio-cover.svg';
+import EcommerceCover from '../images/ecommerce.svg';
 
 const projects = [
   {
     id: 6,
     title: 'React Ecommerce',
     description:
-      'An ecommerce built with React, Redux, Firebase for storage and authentication, React-Router and Stripe for payments.',
-    link: 'https://filipeccm.github.io/cv/',
-    codeLink: 'https://github.com/filipeccm/cv',
-    color: '#caf0f8',
-    backgroundColor: '#0096c7',
-    backgroundImg: WeatherAPICover,
+      'An ecommerce built with React, Redux, React-Router, Firebase for storage and authentication, as well as Node, Express and Stripe for payments in the backend.',
+    link: 'https://crwn-react-ecom.herokuapp.com/',
+    codeLink: 'https://github.com/filipeccm/ecommerce-react',
+    color: 'rgb(31 247 200)',
+    backgroundColor: 'rgb(206 59 87)',
+    backgroundImg: EcommerceCover,
   },
   {
     id: 5,
