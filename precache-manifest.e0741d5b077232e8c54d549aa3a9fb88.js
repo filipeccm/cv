@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5a3ccad622424d0fc4a53e7dc748447",
+    "revision": "99844819d888fe07b724e3925e7e7f73",
     "url": "/cv/index.html"
   },
   {
-    "revision": "2349a508a072f9cacb8c",
+    "revision": "00f6569281b6bdd21e31",
     "url": "/cv/static/css/2.05e42132.chunk.css"
   },
   {
-    "revision": "cfd7c21fef37033ca6f4",
+    "revision": "bb650a3cddc08ce8cf03",
     "url": "/cv/static/css/3.43223a88.chunk.css"
   },
   {
-    "revision": "686d534da0474bceaf42",
+    "revision": "4e4490747f15b1d19c45",
     "url": "/cv/static/css/main.acdbf3d0.chunk.css"
   },
   {
-    "revision": "2349a508a072f9cacb8c",
-    "url": "/cv/static/js/2.252e1646.chunk.js"
+    "revision": "00f6569281b6bdd21e31",
+    "url": "/cv/static/js/2.8d1f3ebb.chunk.js"
   },
   {
-    "revision": "cfd7c21fef37033ca6f4",
-    "url": "/cv/static/js/3.f3b90cfe.chunk.js"
+    "revision": "bb650a3cddc08ce8cf03",
+    "url": "/cv/static/js/3.505f9e56.chunk.js"
   },
   {
     "revision": "d1d57a75c91d9e3ead08",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/js/4.c4a1f2e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "686d534da0474bceaf42",
-    "url": "/cv/static/js/main.17615b07.chunk.js"
+    "revision": "4e4490747f15b1d19c45",
+    "url": "/cv/static/js/main.47dcdc8a.chunk.js"
   },
   {
-    "revision": "a1e8998ee10b74aaa0c2",
-    "url": "/cv/static/js/runtime-main.0f52f336.js"
+    "revision": "cd8c7dfed084441c7b55",
+    "url": "/cv/static/js/runtime-main.8c84600c.js"
   },
   {
     "revision": "d83ccc1ad22f3d0b671a8ad2572ba869",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fc3f90a801c99ea7cb1e51488ed1859",
     "url": "/cv/static/media/coolhowLogo.3fc3f90a.svg"
+  },
+  {
+    "revision": "47b8907b9084a8b2a80386bc48c367cd",
+    "url": "/cv/static/media/ecommerce.47b8907b.svg"
   },
   {
     "revision": "857e75fe09dae67787cec8087dfbe248",
