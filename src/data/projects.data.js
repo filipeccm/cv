@@ -10,7 +10,7 @@ const projects = [
     id: 6,
     title: 'React Ecommerce',
     description:
-      'An ecommerce built with React, Redux, React-Router, Firebase for storage and authentication, as well as Node, Express and Stripe for payments in the backend.',
+      'An ecommerce PWA built with React, Redux, React-Router, SCSS, Firebase for storage and authentication, as well as Node, Express and Stripe for payments in the backend.',
     link: 'https://crwn-react-ecom.herokuapp.com/',
     codeLink: 'https://github.com/filipeccm/ecommerce-react',
     color: 'rgb(31 247 200)',
@@ -31,7 +31,7 @@ const projects = [
     id: 4,
     title: 'Weather API',
     description:
-      "A weather app developed with React that fetch data about a city's weather from an API and then display it to the user.",
+      'A weather forecast app developed with React that fetches data from an API. It allows the user to search for a specific location and also toggle displaying the data in Fahrenheit or Celsius.',
     link: 'https://filipeccm.github.io/weather-api/',
     codeLink: 'https://github.com/filipeccm/weather-api',
     color: '#dceaf9',
@@ -42,7 +42,7 @@ const projects = [
     id: 3,
     title: 'My Library (with Firebase)',
     description:
-      'A library app that can store, delete and change the read-status of a book using Firebase Realtime Database. It was developed with Javascript, CSS and HTML.',
+      'A library app that can create, read, update and delete the info and read-status of a book using Firebase Realtime Database. It was developed with Javascript, CSS and HTML.',
     link: 'https://filipeccm.github.io/myLibrary/',
     codeLink: 'https://github.com/filipeccm/myLibrary',
     color: '#2d3047',
@@ -53,7 +53,7 @@ const projects = [
     id: 2,
     title: 'To-do List (with Local Storage)',
     description:
-      'A library app that can store, delete and change the read-status of a book using Firebase Realtime Database. It was developed with Javascript, CSS and HTML.',
+      'A to-do app that can create, read, update, and delete to-dos with Local Storage. It was developed with Javascript, CSS, Webpack, and the Flatpickr NPM.',
     link: 'https://filipeccm.github.io/todo-list/',
     codeLink: 'https://github.com/filipeccm/todo-list',
     color: '#2d3047',
@@ -64,7 +64,7 @@ const projects = [
     id: 1,
     title: 'Etch-a-sketch',
     description:
-      'A browser simulation of the classic etch-a-sketch. The user can create, reset and define the grid measures, as well as the color. It was developed using HTML, CSS and Javascript.',
+      'A browser simulation of the classic etch-a-sketch. The user can create, reset, and define the grid measures, as well as pick the color. It was developed using HTML, CSS, and Javascript.',
     link: 'https://filipeccm.github.io/etch-a-sketch/',
     codeLink: 'https://github.com/filipeccm/etch-a-sketch',
     color: '#88dae5',
