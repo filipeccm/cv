@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "485bd009b41021e58f9d30fa0d657dbd",
+    "revision": "aef0aca4b4a52b7b4224f2b7985e0fe2",
     "url": "/cv/index.html"
   },
   {
-    "revision": "4b2294301fccd1213b99",
+    "revision": "626fadb6ca0aac08b754",
     "url": "/cv/static/css/2.05e42132.chunk.css"
   },
   {
-    "revision": "bb650a3cddc08ce8cf03",
+    "revision": "c54f60243b97f944175e",
     "url": "/cv/static/css/3.43223a88.chunk.css"
   },
   {
-    "revision": "4e4490747f15b1d19c45",
-    "url": "/cv/static/css/main.acdbf3d0.chunk.css"
+    "revision": "8e0719c945712d6496b1",
+    "url": "/cv/static/css/main.514adf76.chunk.css"
   },
   {
-    "revision": "4b2294301fccd1213b99",
-    "url": "/cv/static/js/2.2a51b1a5.chunk.js"
+    "revision": "626fadb6ca0aac08b754",
+    "url": "/cv/static/js/2.01012f2a.chunk.js"
   },
   {
-    "revision": "bb650a3cddc08ce8cf03",
-    "url": "/cv/static/js/3.505f9e56.chunk.js"
+    "revision": "c54f60243b97f944175e",
+    "url": "/cv/static/js/3.993dc5ea.chunk.js"
   },
   {
     "revision": "d1d57a75c91d9e3ead08",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/js/4.c4a1f2e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e4490747f15b1d19c45",
-    "url": "/cv/static/js/main.47dcdc8a.chunk.js"
+    "revision": "8e0719c945712d6496b1",
+    "url": "/cv/static/js/main.d6ea0a0d.chunk.js"
   },
   {
-    "revision": "e4baf552fa5f5a58784d",
-    "url": "/cv/static/js/runtime-main.207e7fe2.js"
+    "revision": "e1a628548b32312597bd",
+    "url": "/cv/static/js/runtime-main.caaea799.js"
   },
   {
     "revision": "d83ccc1ad22f3d0b671a8ad2572ba869",
@@ -78,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0b0c50419af21d3f324fb066d3276ca6",
     "url": "/cv/static/media/portfolio-cover.0b0c5041.svg"
+  },
+  {
+    "revision": "0f19db2f595461c25cbf69b869211ea2",
+    "url": "/cv/static/media/rate-my-beer-cover.0f19db2f.svg"
   },
   {
     "revision": "afd19fe5a6413ebdcb9b33f9e422547e",

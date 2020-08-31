@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.acdbf3d0.chunk.css",
-    "main.js": "/cv/static/js/main.47dcdc8a.chunk.js",
-    "main.js.map": "/cv/static/js/main.47dcdc8a.chunk.js.map",
-    "runtime-main.js": "/cv/static/js/runtime-main.207e7fe2.js",
-    "runtime-main.js.map": "/cv/static/js/runtime-main.207e7fe2.js.map",
+    "main.css": "/cv/static/css/main.514adf76.chunk.css",
+    "main.js": "/cv/static/js/main.d6ea0a0d.chunk.js",
+    "main.js.map": "/cv/static/js/main.d6ea0a0d.chunk.js.map",
+    "runtime-main.js": "/cv/static/js/runtime-main.caaea799.js",
+    "runtime-main.js.map": "/cv/static/js/runtime-main.caaea799.js.map",
     "static/css/2.05e42132.chunk.css": "/cv/static/css/2.05e42132.chunk.css",
-    "static/js/2.2a51b1a5.chunk.js": "/cv/static/js/2.2a51b1a5.chunk.js",
-    "static/js/2.2a51b1a5.chunk.js.map": "/cv/static/js/2.2a51b1a5.chunk.js.map",
+    "static/js/2.01012f2a.chunk.js": "/cv/static/js/2.01012f2a.chunk.js",
+    "static/js/2.01012f2a.chunk.js.map": "/cv/static/js/2.01012f2a.chunk.js.map",
     "static/css/3.43223a88.chunk.css": "/cv/static/css/3.43223a88.chunk.css",
-    "static/js/3.505f9e56.chunk.js": "/cv/static/js/3.505f9e56.chunk.js",
-    "static/js/3.505f9e56.chunk.js.map": "/cv/static/js/3.505f9e56.chunk.js.map",
+    "static/js/3.993dc5ea.chunk.js": "/cv/static/js/3.993dc5ea.chunk.js",
+    "static/js/3.993dc5ea.chunk.js.map": "/cv/static/js/3.993dc5ea.chunk.js.map",
     "static/js/4.c4a1f2e2.chunk.js": "/cv/static/js/4.c4a1f2e2.chunk.js",
     "static/js/4.c4a1f2e2.chunk.js.map": "/cv/static/js/4.c4a1f2e2.chunk.js.map",
     "index.html": "/cv/index.html",
-    "precache-manifest.b1c63dd829a4338bb5ab66e226535367.js": "/cv/precache-manifest.b1c63dd829a4338bb5ab66e226535367.js",
+    "precache-manifest.e155ad25e89b6c89d348b518a6cc5e5e.js": "/cv/precache-manifest.e155ad25e89b6c89d348b518a6cc5e5e.js",
     "service-worker.js": "/cv/service-worker.js",
     "static/css/2.05e42132.chunk.css.map": "/cv/static/css/2.05e42132.chunk.css.map",
     "static/css/3.43223a88.chunk.css.map": "/cv/static/css/3.43223a88.chunk.css.map",
-    "static/css/main.acdbf3d0.chunk.css.map": "/cv/static/css/main.acdbf3d0.chunk.css.map",
+    "static/css/main.514adf76.chunk.css.map": "/cv/static/css/main.514adf76.chunk.css.map",
     "static/js/4.c4a1f2e2.chunk.js.LICENSE.txt": "/cv/static/js/4.c4a1f2e2.chunk.js.LICENSE.txt",
     "static/media/MyLibraryCover.svg": "/cv/static/media/MyLibraryCover.d83ccc1a.svg",
     "static/media/OGuiaNativo.gif": "/cv/static/media/OGuiaNativo.09d06c17.gif",
@@ -30,13 +30,14 @@
     "static/media/linkedin-logo.29a02864.svg": "/cv/static/media/linkedin-logo.29a02864.svg",
     "static/media/mplogo.svg": "/cv/static/media/mplogo.3680ea61.svg",
     "static/media/portfolio-cover.svg": "/cv/static/media/portfolio-cover.0b0c5041.svg",
+    "static/media/rate-my-beer-cover.svg": "/cv/static/media/rate-my-beer-cover.0f19db2f.svg",
     "static/media/todo-list.svg": "/cv/static/media/todo-list.afd19fe5.svg",
     "static/media/weatherAPI-cover.svg": "/cv/static/media/weatherAPI-cover.4864b1e4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.207e7fe2.js",
+    "static/js/runtime-main.caaea799.js",
     "static/js/4.c4a1f2e2.chunk.js",
-    "static/css/main.acdbf3d0.chunk.css",
-    "static/js/main.47dcdc8a.chunk.js"
+    "static/css/main.514adf76.chunk.css",
+    "static/js/main.d6ea0a0d.chunk.js"
   ]
 }
