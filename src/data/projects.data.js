@@ -4,8 +4,20 @@ import EtchASketchCover from '../images/etch-a-sketch-cover.svg';
 import TodoList from '../images/todo-list.svg';
 import Portfolio from '../images/portfolio-cover.svg';
 import EcommerceCover from '../images/ecommerce.svg';
+import RateMyBeer from '../images/rate-my-beer-cover.svg';
 
 const projects = [
+  {
+    id: 7,
+    title: 'Rate My Beer',
+    description:
+      'An app which allows the user to add, rate and favorite beers. It was built using React, Redux, React-Router, and Firebase Cloud Storage for storage and authentication.',
+    link: 'https://rate-my-beer.herokuapp.com/',
+    codeLink: 'https://github.com/filipeccm/rate-my-beer',
+    color: '#003147',
+    backgroundColor: '#ef5a07',
+    backgroundImg: RateMyBeer,
+  },
   {
     id: 6,
     title: 'React Ecommerce',
