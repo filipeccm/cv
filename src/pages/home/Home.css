@@ -8,7 +8,7 @@
   background-color: #183893;
 }
 .intro {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 #home h2 {
   color: #ff6d65;
@@ -19,7 +19,7 @@
 }
 #home p {
   color: white;
-  font-size: 32px;
+  font-size: 26px;
   text-align: center;
   font-weight: 200;
 }
