@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa8375ef9ab13fc3e54df1d6dbc0abbb",
+    "revision": "0fb89aeaf8f16a382ab911e1bb4d6bc4",
     "url": "/cv/index.html"
   },
   {
-    "revision": "d8a452c07f564f0685a1",
+    "revision": "b716f4e18ebbb3ce2123",
     "url": "/cv/static/css/2.05e42132.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/css/main.514adf76.chunk.css"
   },
   {
-    "revision": "d8a452c07f564f0685a1",
-    "url": "/cv/static/js/2.855fbce9.chunk.js"
+    "revision": "b716f4e18ebbb3ce2123",
+    "url": "/cv/static/js/2.b9668ca5.chunk.js"
   },
   {
     "revision": "c54f60243b97f944175e",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/js/main.d6ea0a0d.chunk.js"
   },
   {
-    "revision": "d8db42b30f778e528327",
-    "url": "/cv/static/js/runtime-main.f2299832.js"
+    "revision": "9f11ccc05d15679d4751",
+    "url": "/cv/static/js/runtime-main.2721685f.js"
   },
   {
     "revision": "d83ccc1ad22f3d0b671a8ad2572ba869",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cv/static/media/coolhowLogo.3fc3f90a.svg"
   },
   {
-    "revision": "dd7c9b551553dcb2368863cee41ade47",
-    "url": "/cv/static/media/ecommerce.dd7c9b55.svg"
+    "revision": "559aeeee7aa4187da2eb45198f01c7d6",
+    "url": "/cv/static/media/ecommerce.559aeeee.svg"
   },
   {
     "revision": "857e75fe09dae67787cec8087dfbe248",
